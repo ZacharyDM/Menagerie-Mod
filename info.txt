@@ -1,0 +1,5 @@
+[NAME:Menagerie Mod]
+[TITLE:Menagerie Mod]
+[DESCRIPTION:Makes every creature tradeable from caravans, including megabeasts and monsters.]
+[AUTHOR:Dulo]
+[WORKSHOPID: ]
