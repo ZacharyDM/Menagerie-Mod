@@ -112,7 +112,6 @@ creature_amphibians
 	[CLUSTER_NUMBER:1:1]
 	[CREATURE_TILE:'T']
 	[COLOR:2:0:0]
-	[PET_EXOTIC]
 	[PETVALUE:500]
 	[MOUNT_EXOTIC]
 	[GO_TO_END]
